@@ -1,5 +1,5 @@
 var nome = 'Jackson Sena';
-var cargo = "CTO - Growdev";
+var cargo = "Desenvolvedor";
 var nomeHtml = document.getElementById("nome-no-html");
 var cargoHtml = document.getElementById("cargo-no-html");
 var texto1 = document.getElementById("texto-1");
